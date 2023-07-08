@@ -1,3 +1,7 @@
 form button:hover {
     background-color: var(--cor-padrao-3);
 }
+
+img-thumb:hover {
+    font-family: 'Courier New', Courier, monospace;
+}

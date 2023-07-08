@@ -86,7 +86,7 @@ form button {
 }
 
 .img-dio {
-    width: 890px;
+    width: 910px;
     border-radius: 5px;
 }
 
@@ -106,18 +106,19 @@ form button {
 }
 
 .img-my-youtube {
-    width: 180px;
+    width: 160px;
     border-radius: 5px;
 }
 
 .div-titulo-videos {
-    padding: 2px 0px 0px 5px;
+    padding: 2px 0px 0px 10px;
 }
 
 .titulo-videos {
     font-family: 'Roboto', sans-serif;
-    font-size: 15px;
-    font-weight: 400;
+    font-size: 14px;
+    font-weight: 600;
     color: var(--cor-letras);
+    text-transform: ;
 }
 
