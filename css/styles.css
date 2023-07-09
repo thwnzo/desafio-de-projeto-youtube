@@ -68,7 +68,6 @@ form button {
 .ul-list {
     display: flex;
     margin-right: 10px;
-    gap: 20px;
 }
 
 .sec-main-1 {
@@ -103,6 +102,8 @@ form button {
 .image-thumb {
     display: flex;
     border-radius: 5px;
+    margin-bottom: 6px;
+    transition: all 0.3s ease;
 }
 
 .img-my-youtube {
@@ -119,6 +120,5 @@ form button {
     font-size: 14px;
     font-weight: 600;
     color: var(--cor-letras);
-    text-transform: ;
 }
 
